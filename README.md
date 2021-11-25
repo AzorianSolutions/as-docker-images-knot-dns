@@ -88,7 +88,7 @@ So for example, to build the Knot Nameserver version 3.1.2 on Debian Linux 11.1-
 The build-realease command assumes the following parameter defaults;
 
 - Image Tag Name: latest
-- knot Version: 3.1.4
+- Knot Version: 3.1.4
 - Distro Name: debian
 - Distro Tag: 11.1-slim
 
